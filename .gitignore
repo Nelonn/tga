@@ -1,0 +1,5 @@
+.idea
+cmake-build-**
+
+# Common
+.DS_Store
